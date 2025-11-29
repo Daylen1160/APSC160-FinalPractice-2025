@@ -30,9 +30,8 @@ Implement a function `toggleLEDs()` to update the states of the LEDs for each ch
 6. The sixth character '6' is displayed for 1 second.  
 7. The seventh character '0' is displayed for 1 second.  
 8. The eighth character '.' is displayed for 1 second.
+9. The sequence repeats indefinitely.
 
 ## Template
 
-**TinkerCAD Link:** 
-10. The sequence repeats indefinitely.
-
+**TinkerCAD Link:** https://www.tinkercad.com/things/hRJdIiyuSUf-seven-segment-display?sharecode=xPwNpF4skPxzTIhzP3NwnY76VZYss_xdKJt-vF8t7s0
