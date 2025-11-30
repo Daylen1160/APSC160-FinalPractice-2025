@@ -48,4 +48,4 @@ LED 1 is ON.
 
 ## Template
 
-**TinkerCAD Link:** 
+**TinkerCAD Link:** https://www.tinkercad.com/things/7wXzC4COsmm-led-blink-sequence?sharecode=8d1VRmtBS1S3V9ZXccKaw01fvGO65AxMoaELec8TNvU
