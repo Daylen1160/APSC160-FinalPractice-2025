@@ -1,6 +1,6 @@
 # Problem: RGB LED Color Control Using Potentiometers
 
-**Recommended Time:** 20–25 min  
+**Recommended Time:** 25–30 min  
 **Topics:** Analog Input, PWM Output, Conditional Statements, Functions, Serial Communication
 
 ## Description
@@ -59,4 +59,4 @@ The sequence continues dynamically as the potentiometers are adjusted.
 
 ## Template:
 
-**TinkerCAD Link**: 
+**TinkerCAD Link**: https://www.tinkercad.com/things/fgAwui1AOJB-rgb-led-amp-pot-control?sharecode=_XxM-uBuwdNJZTt_uyhhDj2E1G_oF1e-EMT59_H5z6A
