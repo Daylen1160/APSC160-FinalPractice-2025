@@ -1,48 +1,50 @@
-# Problem: Opposite-Pair LED Lighting Sequence
+# Problem: Bidirectional LED Sequence with Variable Speed
 
-**Recommended Time:** 15–20 min  
-**Topics:** Digital Output, Timing, LED Control, Sequential Logic
+**Recommended Time:** 20–25 min  
+**Topics:** Digital Output, Arrays, Loops, Functions, Timing, Serial Communication
 
 ## Description
 
-Write an Arduino program that controls **8 LEDs** connected to digital pins.  
-Your task is to light the LEDs in **opposite pairs**, beginning from the outermost LEDs and moving inward.
+Write an Arduino program that controls **10 LEDs** connected to digital pins 4–13. The program must perform the following sequences repeatedly:
 
-The required ON sequence is:
+1. **Quick Forward Sequence:**  
+   - LEDs turn on one by one from **LED #1 to LED #10**.  
+   - Each LED stays **ON for 0.1 seconds** before moving to the next.  
+   - Print the status of each LED to the Serial Monitor in the format: `LED #n is On.`  
 
-1. Turn ON LEDs **1 and 8**, then wait **1 second**  
-2. Turn ON LEDs **2 and 7**, then wait **1 second**  
-3. Turn ON LEDs **3 and 6**, then wait **1 second**  
-4. Turn ON LEDs **4 and 5**, then wait **1 second**
+2. **Quick Backward Sequence:**  
+   - LEDs turn on one by one from **LED #10 to LED #1**.  
+   - Each LED stays **ON for 0.1 seconds**.  
+   - LEDs not currently active must be **OFF**.  
+   - Print the status of the active LED to the Serial Monitor.  
 
-After all pairs have been turned on, turn them **OFF** in the opposite pairing order:
+3. **Slow Backward Sequence:**  
+   - LEDs turn on one by one from **LED #10 to LED #1**.  
+   - Each LED stays **ON for 1 second**.  
+   - All other LEDs must be **OFF**.  
+   - Print the status of the active LED to the Serial Monitor.  
 
-5. Turn OFF LEDs **4 and 5**, then wait **1 second**
-6. Turn OFF LEDs **3 and 6**, then wait **1 second**  
-6. Turn OFF LEDs **2 and 7**, then wait **1 second**  
-7. Turn OFF LEDs **1 and 8**, then wait **1 second** 
-
-Once complete, the full sequence must **repeat indefinitely**.
-
-Your program must print the ON/OFF state of each LED to the Serial Monitor as the sequence runs.
+The program should **loop indefinitely**, cycling through these sequences. Use a **function** for the backward sequences to structure the code modularly.
 
 ## Input / Output
 
 **Input:**  
-- No user input is required.
+- No external input is required.
 
 **Output:**  
-- LEDs physically turn ON/OFF following the pair sequence.  
-- Serial Monitor prints messages such as:  
-  - `"LED #1 is On."`  
-  - `"LED #8 is Off."`  
+- LEDs turning **ON/OFF** in the described sequences.  
+- Serial Monitor prints the active LED in each step.
 
 ## Example Behavior
 
-The LED pattern should appear to “move inward” as pairs turn ON: (1,8) → (2,7) → (3,6) → (4,5)
-Then “move outward” as pairs turn OFF: (1,8) → (2,7) → (3,6) → (4,5)
-With a **1-second delay** between all transitions.
+1. LEDs #1 → #10 turn ON **quickly** (0.1 s each).  
+2. LEDs #10 → #1 turn ON **quickly** (0.1 s each).  
+3. LEDs #10 → #1 turn ON **slowly** (1 s each).  
+4. Sequence repeats indefinitely.
 
-# Template:
+The program must follow similar behavior as indicated in this GIF:
+![CPT2511291902-557x313 (online-video-cutter com)](https://github.com/user-attachments/assets/e7eb2ba4-056f-4c80-868e-84e49d456f9f)
 
-**TinkerCAD Link**: 
+## Template
+
+**TinkerCAD Link**: https://www.tinkercad.com/things/4YEI4BSLE7D-led-blink-simulation-iii
