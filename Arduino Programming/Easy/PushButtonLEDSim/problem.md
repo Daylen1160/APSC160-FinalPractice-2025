@@ -1,4 +1,4 @@
-# Problem: Alternating Blue–Green LED Blink Counter
+# 🟢 Alternating Blue–Green LED Blink Counter
 
 **Recommended Time:** 15–20 min  
 **Topics:** Digital Input, Digital Output, Variables, Functions, Control Flow

@@ -1,4 +1,4 @@
-# Problem: LED Brightness Control with Pushbuttons
+# 🔵 LED Brightness Control with Pushbuttons
 
 * **Recommended Time:** 5–10 min  
 * **Topics:** Arduino Basics, Digital Input, PWM Output, Control Flow

@@ -1,4 +1,4 @@
-# Problem: Dual 8-LED Display – Name and Student Number
+# 🟡 Dual 8-LED Display – Name and Student Number
 
 * **Recommended Time:** 20-25 min  
 * **Topics:** Arduino Basics, Digital Output, Arrays, Functions

@@ -1,4 +1,4 @@
-# Problem: Traffic Light Simulator
+# 🔵 Traffic Light Simulator
 
 * **Recommended Time:** 5-10 min
 * **Topics:** Arduino Basics, Digital Output, Control Flow

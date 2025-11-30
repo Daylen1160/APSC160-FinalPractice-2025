@@ -1,4 +1,4 @@
-# Problem: RGB LED Color Control Using Potentiometers
+# 🔴 RGB LED Color Control Using Potentiometers
 
 **Recommended Time:** 25–30 min  
 **Topics:** Analog Input, PWM Output, Conditional Statements, Functions, Serial Communication

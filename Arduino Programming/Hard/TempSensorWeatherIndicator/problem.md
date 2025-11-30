@@ -1,4 +1,4 @@
-# Problem: Temperature-Based Weather Indicator with LEDs
+# 🔴 Temperature-Based Weather Indicator with LEDs
 
 **Recommended Time:** 25–30 min  
 **Topics:** Analog Input, Digital Output, Conditional Statements, Functions, Serial Communication

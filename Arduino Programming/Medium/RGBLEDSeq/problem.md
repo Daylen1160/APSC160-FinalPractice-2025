@@ -1,4 +1,4 @@
-# Problem: Random RGB LED Pattern Generator
+# 🟡 Random RGB LED Pattern Generator
 
 * **Recommended Time:** 20-25 min  
 * **Topics:** Arduino Basics, Digital & Analog Output, Functions, Random Numbers, Control Flow

@@ -1,4 +1,4 @@
-# Problem: Opposite-Pair LED Lighting Sequence
+# 🟢 Opposite-Pair LED Lighting Sequence
 
 **Recommended Time:** 15–20 min  
 **Topics:** Digital Output, Timing, LED Control, Sequential Logic

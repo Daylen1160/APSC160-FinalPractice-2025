@@ -1,4 +1,4 @@
-# Problem: Display "APSC160." on a 7-Segment Display
+# 🔵 Display "APSC160." on a 7-Segment Display
 
 * **Recommended Time:** 10–15 min  
 * **Topics:** Arduino Basics, Digital Output, Arrays, Functions, Control Flow

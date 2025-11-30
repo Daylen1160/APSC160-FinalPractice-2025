@@ -1,4 +1,4 @@
-# Problem: Potentiometer-Controlled LED Sequence
+# 🟡 Potentiometer-Controlled LED Sequence
 
 **Recommended Time:** 20–25 min  
 **Topics:** Analog Input, Digital Output, Control Flow, Variables, Functions, Timing

@@ -4,9 +4,9 @@
 
 
 ## Overview
-Where are we? This is git, a software that is used by all programmers to store code. You are currently on Github, a platform that hosts git code (like how YouTube has videos; Git and Github are not the same thing). 
+Where are we? This is git, a software that is used by all programmers to store code. You are currently on Github, a platform that hosts git code (like how YouTube hosts videos; Git and Github are not the same thing). 
 
-This guide is meant to server you as an additional resource to studying for the APSC 160 Final. Be sure to check out `tips.md` too for additional advice!
+This guide is meant to server you as an additional resource to studying for the APSC 160 Final. We **strongly** recommend to check out `tips.md` too for additional advice!
 
 ### For C Questions
 
@@ -38,9 +38,8 @@ git clone [https://github.com/Daylen1160/APSC160-FinalPractice-2025.git]
 
 Now open the folder in your IDE and run from there!
 
-> [INSERT SOME DISCLAIMER IF WE UPDATE THE REPO]
-
-<br> </br>
+> [INSERT SOME DISCLAIMER IF WE UPDATE THE REPO - DAYLEN WILL DO]
+---
 <ins> For Arduino questions: </ins>  
 
 In the `problem.md` file, there is a template to TinkerCAD

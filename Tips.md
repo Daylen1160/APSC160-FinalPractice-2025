@@ -25,7 +25,9 @@ It sounds simple—you were told this as a kid—but a lot of errors come from n
 * If you don't understand it, **read it again** 
 
 ### 3. Don't cheat
-This is obviously not graded. You voluntarily came here to prepare better for the exam. Why are you using AI or looking at our solutions? You will not have them during the final. Whether you cheat on these problems is up to you, but we make these problems to be great preparation and by cheating you are essentially wasting them.
+This is obviously not graded. You voluntarily came here to prepare better for the exam. Why are you using AI or looking at our solutions so quick? Think & struggle please! You will not have these tools during the final. Whether you cheat on these problems is up to you, but we make these problems to be great preparation and by cheating you are essentially wasting them.
+
+If you want my recommendation, once you are over the recommended time, you can't come up with anything, or you got the right answer, only then look at the solutions.
 
 ## 📃 What this means for the final
 * If you can complete the problems in the recommended times or less, you will do well.
@@ -36,12 +38,12 @@ This is obviously not graded. You voluntarily came here to prepare better for th
 
 - **Don't overwork:** I would never ever ever ever recommend doing every problem in this guide in one sitting. Think about doing it every day building up to the final, doing an hour in the morning, hour in the afternoon, and hour at night. Consistency puts it in long term memory and it becomes more natural. Cramming puts it in short term memory and you become overly stressed. 
 - **Sleep early:** Don't be working at 6am like us making this guide. You will always think better with good sleep. 
-- **Eat right:** Fuel your brain with the right thing, it won't operate at the highest level otherwise. 
+- **Eat right:** Fuel your brain with the right thing, it won't operate at your highest level otherwise. 
 - **Don't overthink it:** You are taking this exam either way, so just do your best in prepping. 
 
 ## 🗣 Last Encouraging Words
 
 - Although you and someone else might have gotten the same grade, they might've not studied at all whereas you dedicated countless, sleepless nights. Always compare yourself to only yourself, be better than who you were yesterday. 
-
 - You are more than just a grade in the gradebook, you are human. On the surface, the TAs and Instructors can only see this. But know, that we do care about what you feel underneath and that you are sentient beings who have your own achievements and struggles. 
-- You will do fine on this final. As TAs who has seen you guys struggle and still get back up, we would never sell you guys short by giving you crappy problems. We want to see you succeed, that's why we also dedicated a lot of time to make this.
+- You will do fine on this final. As TAs who has seen you guys struggle and still get back up, We recognize your efforts, we would never sell you guys short by giving you crappy problems. We want to see you succeed and enjoy programming, that's why we dedicated a lot of time to make this.
+- Always feel free to reach out to either of us, we are with you.
