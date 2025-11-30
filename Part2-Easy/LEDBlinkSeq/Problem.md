@@ -1,6 +1,6 @@
 # Problem: Forward and Backward LED Blink Sequence
 
-* **Recommended Time:** 10–15 min  
+* **Recommended Time:** 15–20 min  
 * **Topics:** Arduino Basics, Digital Output, Arrays, Functions, Control Flow
 
 ## Description
