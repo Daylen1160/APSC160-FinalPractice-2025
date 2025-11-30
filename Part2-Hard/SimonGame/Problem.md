@@ -1,6 +1,6 @@
 # Problem: Arduino Simon Game Implementation
 
-**Recommended Time:** 2–3 hours  
+**Recommended Time:** 40-50 minutes  
 **Topics:** Arrays, Functions, Digital Input/Output, Random Numbers, Control Flow, Loops
 
 ## Description
