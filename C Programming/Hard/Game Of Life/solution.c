@@ -58,13 +58,11 @@ int getLiveNeighbors(int NUMROWS, int NUMCOLS, int board[][NUMCOLS], int row, in
  * @return The next state of the live cell (1 for alive, 0 for dead)
  */
 int liveCellNextState(int liveNeighbors) {
-    if (liveNeighbors < 2) {
-        return 0;
-    } else if (liveNeighbors == 2 || liveNeighbors == 3) {
-        return 1;
-    } else {
-        return 0;
+    int live = 0;
+    if (liveNeighbors == 2 || liveNeighbors == 3) {
+        live = 1;
     }
+    return live;
 }
 
 /**
@@ -73,11 +71,11 @@ int liveCellNextState(int liveNeighbors) {
  * @return The next state of the dead cell (1 for alive, 0 for dead)
  */
 int deadCellNextState(int liveNeighbors) {
+    int live = 0;
     if (liveNeighbors == 3) {
-        return 1;
-    } else {
-        return 0;
+        live = 1;
     }
+    return live;
 }
 
 /**
