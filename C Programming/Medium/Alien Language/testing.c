@@ -1,5 +1,7 @@
 // Run this program to test
-// To change between "template.c" and "solution.c", run those files independently then run this test file
+
+// OnlineGDB users: To change between "template.h" and "solution.h", run those files first then run this test file
+// Local IDE/Git users:To change between "template.c" and "solution.c", run those files first then run this test file
 
 // DO NOT MODIFY BELOW THIS LINE
 #include <stdio.h>

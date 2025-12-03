@@ -1,4 +1,5 @@
-// Change this to "template.c" or "solution.c" to test
+// OnlineGDB users: Change this to either "template.h" or "solution.h" to test
+// Local IDE/Git users: Change this to either "template.c" or "solution.c" to test
 #include "template.c"
 
 // DO NOT TOUCH ANYTHING BELOW THIS LINE
