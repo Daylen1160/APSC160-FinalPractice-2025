@@ -21,20 +21,25 @@ Treat the input exactly as given (case-sensitive). For example, `"Racecar"` is *
 Input: "radar"
 Output: true
 Explanation: radar spelled backwards is radar
-
+```
+```
 Input: "hello"
 Output: false
-
+```
+```
 Input: ""
 Output: true
-
+```
+```
 Input: "a"
 Output: true
-
+```
+```
 Input: "Racecar"
 Output: false
 Explanation: Case sensitivity
-
+```
+```
 Input: "racecar"
 Output: true
 ```

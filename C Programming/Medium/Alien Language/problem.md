@@ -4,7 +4,7 @@
 
 **Topics:** File I/O, Strings, Characters, Encoding
 
-> Note: This problem seems to not work on onlineGDB for now. Updates coming soon.
+> Note: This problem seems to not work on OnlineGDB for now. Updates coming soon.
 
 ## Description
 
@@ -38,9 +38,11 @@ Testing is a bit different than all the other problems. You need to run `templat
 ```text
 Example 1:
 Input: "APSC160 is the best course in first year engineering!"
-Output (in decoder.txt)
+
+Output (in decoder.txt):
 APSC160 is the best course in first year engineering!
 !03#555 )3 4(% "%34 #/523% ). &)234 9%!2 %.').%%2).'!
+
 Explanation:
 - The letters 'C' and 'c' are treated the same, they both get mapped to '#' (67-32=35)
 - The length of the string is 53, which is the ASCII value for '5'

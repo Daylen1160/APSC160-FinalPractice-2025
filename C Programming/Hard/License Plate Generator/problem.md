@@ -21,7 +21,7 @@ You must also check that no two license plates contain the same set of letters o
 ## ASCII Table
 ![ASCII_table](../../../img/ascii.gif "ASCII_table")
 
-## Examples
+## Example
 
 | Input | Output |
 | :--- | :--- |

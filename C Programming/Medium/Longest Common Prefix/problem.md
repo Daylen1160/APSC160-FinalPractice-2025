@@ -28,9 +28,11 @@ Input: strs = ["flower","flow","flight"], 3, ""
 Modifies: "fl"
 Output: 2
 Explanation: All the strings passed in start with at least "fl"
+```
 
+```
 Example 2:
-Input: strs = ["dog","racecar","car"], ""
+Input: strs = ["dog","racecar","car"], 3 ""
 Modifies: ""
 Output: 0
 Explanation: There is no common prefix among the input strings.
