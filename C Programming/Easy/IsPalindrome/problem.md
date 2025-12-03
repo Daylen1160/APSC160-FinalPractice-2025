@@ -4,7 +4,7 @@
 
 **Topics:** Strings, Loops, Arrays, Boolean Logic
 
-## Task
+## Description
 Write a function named `isPalindrome` that determines whether a given string is a palindrome. A palindrome is a sequence of characters that reads the same forward and backward.
 
 Treat the input exactly as given (case-sensitive). For example, `"Racecar"` is *not* a palindrome unless the case matches exactly.
