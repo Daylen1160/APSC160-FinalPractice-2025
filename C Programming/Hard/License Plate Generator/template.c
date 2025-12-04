@@ -10,6 +10,8 @@
 #include <stdbool.h>
 #include <time.h>
 
+void licensePlateGenerator(char licensePlates[][PLATELENGTH]);
+
 /**
  * Generates 5 unique license plates in the format "LLL-DDD"
  * @param licensePlates A 2D array to store the generated license plates

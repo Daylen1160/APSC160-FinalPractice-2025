@@ -1,6 +1,8 @@
 #include <stdbool.h>
 #include <string.h>
 
+bool isPalindrome(char word[]);
+
 /**
  * Checks if a given word is a palindrome.
  * @param word The input string to check.

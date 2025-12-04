@@ -1,3 +1,4 @@
+void gameOfLife(int NUMROWS, int NUMCOLS, int board[][NUMCOLS]);
 /**
  * Updates the board to the next state according to the Game of Life rules
  * @param NUMROWS Number of rows in the board

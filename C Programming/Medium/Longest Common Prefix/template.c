@@ -2,6 +2,8 @@
 
 #define MAX_WORD_LENGTH 100
 
+int longestCommonPrefix(char strs[][MAX_WORD_LENGTH], int strsLength, char longestPrefix[]);
+
 /**
  * Finds the longest common prefix among an array of strings.
  * @param strs An array of strings

@@ -1,3 +1,5 @@
+int richestCustomerWealth(int NUMROWS, int NUMCOLS, int accounts[][NUMCOLS]);
+
 /**
  * Finds the richest customer's wealth from a 2D array of accounts
  * @param NUMROWS Number of customers (rows)

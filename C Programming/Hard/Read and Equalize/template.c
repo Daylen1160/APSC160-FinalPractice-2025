@@ -1,9 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-
-
-
-
 int readAndEqualize(char fileName[], int fileRows, int evenOrOdd);
 
 /**
