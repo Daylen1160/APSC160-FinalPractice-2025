@@ -13,6 +13,8 @@ Read numbers from a file in a 2-column format. Based on whether a given number `
 
 Store the selected values in an array. Then determine the minimum number of elements to remove from the array so that all remaining elements have the same value.
 
+If the file you try to read from is non-existent, print an error message and exit the program early and it should produce -1.
+
 ## Input / Output
 - **Input:** 
   - `char fileName[]` — the name of the file to read from.
@@ -52,4 +54,10 @@ File content (test1.txt):
 
 Input: test1.txt, 5, 51
 Output: 2
+```
+
+```text
+Example 3:
+Input: gibblygobblygoo.txt, 67, 67
+Output: (Says some sort of error message) and returns -1
 ```

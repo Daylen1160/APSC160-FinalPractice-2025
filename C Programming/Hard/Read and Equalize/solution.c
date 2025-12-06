@@ -16,6 +16,7 @@ int readAndEqualize(char fileName[], int fileRows, int evenOrOdd) {
     inputFile = fopen(fileName, "r");
     if (inputFile == NULL) {
         printf("ERROR: Could not open file %s\n", fileName);
+        return -1; 
     }
     
     int num1;

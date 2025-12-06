@@ -20,7 +20,7 @@ void fake_srand(unsigned int seed);
 /* ============ DO NOT CHANGE ANYTHING ABOVE  THIS LINE ============ */
 // OnlineGDB users: Change to "template.h" or "solution.h" if using the rename trick
 // Local users: Keep as "template.c" or "solution.c"
-#include "solution.c"
+#include "template.c"
 /* ============ DO NOT CHANGE ANYTHING BELOW THIS LINE ============ */
 
 static unsigned long int next = 1;

@@ -1,6 +1,6 @@
 // OnlineGDB users: Change this to either "template.h" or "solution.h" to test
 // Local IDE/Git users: Change this to either "template.c" or "solution.c" to test
-#include "solution.c"
+#include "template.c"
 
 // DO NOT TOUCH ANYTHING BELOW THIS LINE
 #include <stdio.h>
@@ -11,6 +11,7 @@
 #define test4File "test4.txt"
 #define test5File "test5.txt"
 #define test6File "test6.txt"
+#define test7File "gibblygobblygoo.txt"
 
 int main() {
     printf("Running Read and Equalize Test Cases...\n");
@@ -121,6 +122,21 @@ int main() {
         printf("Test Case %d: FAIL\n", totalTests);
         printf("  Output: %d\n", attempt7);
         printf("  Expected: %d\n\n", answer7);
+    }
+    printf("----------------------------------------\n");
+
+    // --- Test Case 8: No File Found---
+    totalTests++;
+    int attempt8 = readAndEqualize(test7File, 67, 67); 
+    int answer8 = -1;
+    
+    if (attempt8 == answer8) { 
+        passedTests++;
+        printf("Test Case %d: PASS\n", totalTests);
+    } else {
+        printf("Test Case %d: FAIL\n", totalTests);
+        printf("  Output: %d\n", attempt8);
+        printf("  Expected: %d\n\n", answer8);
     }
     printf("----------------------------------------\n");
 
