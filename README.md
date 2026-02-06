@@ -1,13 +1,14 @@
-# 💻 Welcome to the APSC 160 Final Exam Practice Problems Set! 💻
+# 💻 Welcome to the APSC 160 Exam Practice Problems Set! 💻
 
 > **Disclaimer:** These questions are not officially endorsed by APSC 160's teaching team, they are just TAs' opinions.
+> Please star this repository if you liked it :)
 
 ## Overview
 What's going on? This was made with Git, a software that is used by programmers to store code. You are currently on Github, the most commonly used platform that hosts code (like how YouTube hosts videos; Git and Github are not the same thing). You are currently looking at a repository (a folder with stuff in it).
 
-**In a nutshell, The only important things you need to look at is `README.md` (what you're looking at now), `tips.md`, `C Programming`, and `Arduino Programming`.** The names are self explanatory, so have a look around!
+**In a nutshell, The only important things you need to look at is `README.md` (what you're looking at now), `tips.md`, `MT1`, `MT2`, and `FE` which contains `C Programming`, and the `FE` has Arduino Programming`.** The names are self explanatory, so have a look around!
 
-This guide is meant to serve as an additional resource to studying for the APSC 160 Final. Preferably, work your way up the problems, from 'Warm Up/Easy' to 'Medium' and then 'Hard'. We also **strongly** recommend to check out `tips.md` too for additional advice! 
+This guide is meant to serve as an additional resource to studying for APSC 160 Exams. Preferably, work your way up the problems, from 'Warm Up/Easy' to 'Medium' and then 'Hard'. We also **strongly** recommend to check out `tips.md` too for additional advice! 
 
 ### For C Questions
 
@@ -53,7 +54,7 @@ Now open the folder in your IDE and run from there!
 
 #### What happens if changes are made by us (and hopefully announced on Piazza)?
 
-Open your terminal and navigate to the `APSC160-FinalPractice-2025` folder and run:
+Open your terminal and navigate to the `APSC160-Exam-Practice-2025` folder and run:
 ``` bash
 git pull origin main
 ```
@@ -96,10 +97,10 @@ In the `problem.md` file, there is a template to TinkerCAD. Complete the program
 
 ## Authors
 
-| Name | Year | Major | Email |
+| Name | Year | Major | Email | Status |
 |:---:|:---:|:---:|:---:|
-| Daylen Chun | 2nd | Computer Engineering | dchun924@student.ubc.ca |
-| Aly Khan Nuruddin | 4th | Biomedical Engineering | alykhan5@student.ubc.ca |
+| Daylen Chun | 2nd | Computer Engineering | dchun924@student.ubc.ca | ✅
+| Aly Khan Nuruddin | 4th | Biomedical Engineering | alykhan5@student.ubc.ca | ❌
 
 > The problems are sourced and possibly modified from various sources including CodeForces, HackerRank, CodeChef, LeetCode, and our imaginations. Message dchun924@student.ubc.ca for credentials.
 
@@ -124,5 +125,5 @@ Updates to the repository can be found at `CHANGELOG.md`. Be sure to check there
 - Make user I/O problems.
 - Get random/string problems from Aly's guide working. As of now, just use his guide on Canvas.
 - Fix Alien Language to work on OnlineGDB.
-- Possibly add comments in the solutions if people ask for it.
+- Add comments to solutions.
 - Fix Simon Game sample solution.
