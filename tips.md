@@ -24,7 +24,7 @@ It sounds simple—you were told this as a kid—but a lot of errors come from n
 * While you are working on the problem, read it again
 
 ### 3. Don't cheat
-This is obviously not graded. You voluntarily came here to prepare better for the exam. Why are you using AI or looking at our solutions so quick? Think & struggle please! You will not have these tools during the final. Whether you cheat on these problems is up to you, but we make these problems to be a resource for you and by cheating you are wasting it.
+This is obviously not graded. You voluntarily came here to prepare better for the exam. Why are you using AI or looking at our solutions so quick? Think & struggle please! You will not have these tools during the exam. Whether you cheat on these problems is up to you, but we make these problems to be a resource for you and by cheating you are wasting it.
 
 If you want my recommendation, **once you are over the recommended time, you can't come up with anything, or you got the right answer, only then use external tools and look at the solution.**
 
