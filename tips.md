@@ -1,7 +1,7 @@
 # 💡 Success Guide & Additional Tips
 
 ## 📋 Quick Note
-> A small note about Daylen: I took this course in 2025 like all of you. I made this to give you personal insights to me being in your shoes, and my friends alongside me who have complained to me about the course.  
+> A small note about Daylen: I took this course in 2024/2025 Term 2, so it hasn't been that long. I made this to give you personal insights to me being in your shoes, and my friends alongside me who have complained to me about the course.  
 
 This study guide is designed to teach you how to **"think like a coder"**, not just test your knowledge of the course up to this point.  
 
@@ -32,14 +32,14 @@ If you want my recommendation, **once you are over the recommended time, you can
 
 Sometimes you cannot get a problem because you are not in the right space at that time. Do not get stuck on one problem. Move onto another, then maybe coming back might allow you to approach it differently.
 
-## 📃 What this means for the final
+## 📃 What this means for the exam
 * If you can complete the problems in the recommended times or less, you will do well.
 * **You should be capable of solving all problems, including the hard difficulty.**
-* We made the recommended times and difficulties as students like yourself who have taken the final before. This is so you know what to expect for the final.
+* We made the recommended times and difficulties as students like yourself who have taken this course before. This is so you know what to expect for the exam.
 
 ## 🛏️ Health
 
-- **Don't overwork:** I would never ever ever ever recommend doing every problem in this guide in one sitting. Think about doing it every day building up to the final, doing an hour in the morning, hour in the afternoon, and hour at night. Consistency puts it in long term memory and it becomes more natural. Cramming puts it in short term memory and you become overly stressed. 
+- **Don't overwork:** I would never ever ever ever recommend doing every problem in this guide in one sitting. Think about doing it every day building up to the exam, doing an hour in the morning, hour in the afternoon, and hour at night. Consistency puts it in long term memory and it becomes more natural. Cramming puts it in short term memory and you become overly stressed. 
 - **Sleep early:** Don't be working at unholy hours. You will always think better with good sleep. 
 - **Eat right:** Fuel your brain with the right thing, it won't operate at your highest level otherwise. 
 - **Don't overthink it:** You are taking this exam either way, so just do your best in prepping. 
@@ -48,5 +48,5 @@ Sometimes you cannot get a problem because you are not in the right space at tha
 
 - Although you and someone else might have gotten the same grade, they might've not studied at all whereas you dedicated countless, sleepless nights. Always compare yourself to only yourself, be better than who you were yesterday. 
 - You are more than just a grade in the gradebook, you are human. On the surface, the TAs and Instructors can only see your mark. But know, that we do care about what you feel underneath and that you are sentient beings who have your own achievements and struggles. 
-- If you finish this guide, you will be fine on this final. As TAs who has seen you guys struggle and still get back up, We recognize your efforts, we would never sell you guys short by giving you crappy problems. We want to see you succeed and enjoy programming, that's why we dedicated a lot of time to make this.
+- If you finish this guide, you will be fine on this. As TAs who has seen you guys struggle and still get back up, We recognize your efforts, we would never sell you guys short by giving you crappy problems. We want to see you succeed and enjoy programming, that's why we dedicated a lot of time to make this.
 - Always feel free to reach out to either of us, we are with you.
