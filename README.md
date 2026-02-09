@@ -1,6 +1,7 @@
 # 💻 Welcome to the APSC 160 Exam Practice Problems Set! 💻
 
 > **Disclaimer:** These questions are not officially endorsed by APSC 160's teaching team, they are just TAs' opinions.
+
 <br>
 
 > Please star this repository if you liked it :)
@@ -10,12 +11,11 @@ What's going on? This was made with Git, a software that is used by programmers 
 
 **In a nutshell, The only important things you need to look at is `README.md` (what you're looking at now), `tips.md`, `MT2`, and `FE` where the `FE` has `C Programming`, and `Arduino Programming`.** The names are self explanatory, so have a look around!
 
-This guide is meant to serve as an additional resource to studying for APSC 160 Exams. Preferably, work your way up the problems, from 'Warm Up/Easy' to 'Medium' and then 'Hard'. We also **strongly** recommend to check out `tips.md` too for additional advice! 
+This guide is meant to serve as an additional resource to studying for APSC 160 Exams. Preferably, work your way up the problems, from _Warm Up/Easy_ to _Medium_ and then _Hard_. We also **strongly** recommend to check out `tips.md` too for additional advice! 
 
 Each folder contains only content up to that point that is relevant to that. So for ___ you should study:
-- MT1: MT1
-- MT2: MT1 & MT2
-- FE: MT1, MT2, & FE
+- MT2: MT2
+- FE: MT2, & FE
 
 ### For C Questions
 
@@ -43,7 +43,11 @@ Copy and paste the template and solution files into onlineGDB. Make sure to use 
 
 ### 2. Using Git
 
-> Note: Only Windows (10/11) OS does not have Git pre-installed: https://github.com/git-guides/install-git 
+> Note: Only Windows (10/11) OS does not have Git pre-installed: https://github.com/git-guides/install-git
+> To check, in *Terminal* or *Command Prompt*, type:
+``` bash
+git --version
+```
 
 > I would recommend doing this if you are interested in CPEN, ELEC, or BMEG as you will inevitably be using Git in the future for classes!
 
@@ -69,7 +73,7 @@ git pull origin main
 
 ### 3. Copy and Pasting/Downloading the Directory into your IDE
 
-I don't recommend this method to be fair. As I'd choose to be simplistic with onlineGDB or up to industry standard with Git.
+I don't recommend this method to be fair. As I'd choose to be simplistic with OnlineGDB or up to industry standard with Git.
 
 To do it through downloading, click *Code* then *Download ZIP*. Then open the folder in your IDE.
 
@@ -107,17 +111,15 @@ In the `problem.md` file, there is a template to TinkerCAD. Complete the program
 | Name | Year | Major | Email | Currently TAing? |
 |:---:|:---:|:---:|:---:| :---:
 | Daylen Chun | 2nd | Computer Engineering | dchun924@student.ubc.ca | ✅
-| Aly Khan Nuruddin | Graduated! | Biomedical Engineering | alykhan5@student.ubc.ca | ❌
+| Aly Khan Nuruddin | Graduated | Biomedical Engineering | alykhan5@student.ubc.ca | ❌
 
 > The problems are sourced and possibly modified from various sources including CodeForces, HackerRank, CodeChef, LeetCode, and our imaginations. Message dchun924@student.ubc.ca for credentials.
 
 ## Inquiries
 
-This guide likely has some errors that we happened to not catch.
+Daylen did a poor job, so this guide likely has some errors that we happened to not catch.
 
-If you find any mistakes/problems/suggestions in `C Programming` or issues with the repository, email dchun924@student.ubc.ca
-
-If you find any mistakes/problems/suggestions in `Arduino Programming`, email alykhan5@student.ubc.ca
+If you find any mistakes/problems/suggestions in `C Programming` or `Arduino Programming` or issues with the repository/git/getting things running, email dchun924@student.ubc.ca
 
 Feel free to use Piazza to post questions related to solving the problems.
 
@@ -129,8 +131,9 @@ If you want additional tips/insights or anything else, email either/both of us!
 
 Updates to the repository can be found at `CHANGELOG.md`. Be sure to check there every now and then so you know whether to refresh the repository or not. I'll announce a Piazza statement if it's important too.
 
+- MT1 Problems (sorry 2025/2026 Term 2...)
 - Make user I/O problems.
 - Get random/string problems from Aly's guide working. As of now, just use his guide on Canvas.
 - Fix Alien Language to work on OnlineGDB.
 - Add comments to solutions.
-- Fix Simon Game sample solution.
+- Add problem credits & links.
