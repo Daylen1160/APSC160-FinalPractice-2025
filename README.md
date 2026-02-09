@@ -110,8 +110,8 @@ In the `problem.md` file, there is a template to TinkerCAD. Complete the program
 
 | Name | Year | Major | Email | Currently TAing? |
 |:---:|:---:|:---:|:---:| :---:
-| Daylen Chun | 2nd | Computer Engineering | dchun924@student.ubc.ca | ✅
-| Aly Khan Nuruddin | Graduated | Biomedical Engineering | alykhan5@student.ubc.ca | ❌
+| Daylen Chun | 2nd | CPEN | dchun924@student.ubc.ca | ✅
+| Aly Khan Nuruddin | Graduated! 🥳 | BMEG| alykhan5@student.ubc.ca | ❌
 
 > The problems are sourced and possibly modified from various sources including CodeForces, HackerRank, CodeChef, LeetCode, and our imaginations. Message dchun924@student.ubc.ca for credentials.
 
